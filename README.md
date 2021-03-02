@@ -9,3 +9,5 @@ You will have to make a number of decisions as you develop this solution:
 3) Do you care about the ordering of words?
 4) What metric do you use to assign a numerical value to the similarity?
 5) What type of data structures should be used? (Hint: Dictionaries and lists are particularly helpful data structures that can be leveraged to calculate the similarity of two pieces of text.)
+
+For more Detalis : https://fetch-hiring.s3.amazonaws.com/data-engineer/text-similarity.html
